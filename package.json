@@ -1,0 +1,23 @@
+{
+  "name": "vector-fail",
+  "version": "1.0.0",
+  "description": "nothing to see here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rclark/vector-fail.git"
+  },
+  "author": "Ryan Clark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rclark/vector-fail/issues"
+  },
+  "homepage": "https://github.com/rclark/vector-fail",
+  "dependencies": {
+    "tilelive": "^5.4.1",
+    "tilelive-vector": "^3.0.4"
+  }
+}
